@@ -10,6 +10,8 @@ The scope of the analysis was as follows:
 
 "From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization."
 
+***NOTE: For this analysis, I have included the two files I used to evaluate the models using the KerasTuner. Those files are named: KerasTuner_NoMods.ipynb and KerasTuner_WithFeatureMods.ipynb. In order to keep the processing time to a minimum, these files evaluated several models utilizing the same data set with various parameters separately, in order to find the best possible models in the most efficient way possible.***
+
 ## Results:
 
 ### Data Preprocessing
